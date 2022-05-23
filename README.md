@@ -8,5 +8,5 @@ For building FFMPEG with cuda enable will be provided later
 For building OpenCV with cuda enable will provided later.
 
 ## Requirements:
-1. OpenCV
-2. FFMPEG with Hardware Accelation
+1. [OpenCV 4.5.0 with Cuda](OpenCV_with_CUDA_build.md)
+2. [FFMPEG with Hardware Accelation](FFMPEG_BUILD.md)
